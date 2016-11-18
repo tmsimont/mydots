@@ -1,0 +1,10 @@
+/*
+
+!.gitignore
+!.vim
+!.vim/*
+!.vimrc
+!.dir_colors
+!.dir_colors/*
+!.terminfo
+!.terminfo/*
