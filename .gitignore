@@ -1,6 +1,7 @@
 /*
 
 !.gitignore
+!.gitmodules
 !.vim
 !.vim/*
 !.vimrc
