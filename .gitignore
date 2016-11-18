@@ -2,6 +2,7 @@
 
 !.gitignore
 !.gitmodules
+!.set_dircolors
 !.vim
 !.vim/*
 !.vimrc

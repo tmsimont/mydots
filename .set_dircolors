@@ -1,0 +1,2 @@
+# source this in bash rc
+eval `dircolors ~/.dir_colors/dircolors`
